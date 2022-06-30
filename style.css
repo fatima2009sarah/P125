@@ -1,0 +1,31 @@
+body{
+   background-size:cover;
+   background-repeat: no-repeat;
+}
+
+.heading{
+    color: rgb(44, 38, 38);
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px  ;
+}
+.note{
+    font-size: 14px;
+    color: rgb(103, 99, 99);
+}
+.footer{
+    color: rgb(0, 0, 0);
+    font: 14px;
+    text-align: center;
+    position: fixed;
+    bottom:0;
+    background-color:coral;
+    width: 100%;
+    line-height: 2;
+    font-family: cursive;
+}
+canvas{
+    border: 2px solid black;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px grey;
+}
